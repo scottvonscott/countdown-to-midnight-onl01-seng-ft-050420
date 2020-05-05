@@ -1,7 +1,7 @@
 #write your code here
 
 def countdown(integer)
-  x == 10
+  x = 10
   while x > 11
     puts "#{integer}"
     x -= 1
