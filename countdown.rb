@@ -5,7 +5,6 @@ def countdown(integer)
   while x > 11
     puts "#{integer}"
     x -= 1
-    Break
-    puts "HAPPY NEW YEAR!"
   end
+  puts "HAPPY NEW YEAR!"
 end
